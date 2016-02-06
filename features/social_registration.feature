@@ -1,5 +1,4 @@
 Feature: Facebook Social Login
-
 	Scenario: As a visitor I can log into the Crowdcompass app with my existing Facebook account
 		Given I navigate to "www.crowdcompass.com"
     	When I click on element having id "Login"
