@@ -2,7 +2,7 @@ Testing crowdcompass login with selenium-cucumber
 
 Prerequisites
 
-    Mandatory (OSX users should install [homebrew](brew.sh), a great package manager, to install the following)
+    Mandatory (OSX users should install [homebrew](http://www.brew.sh), a great package manager, to install the following)
         Ruby (1.9.3 and above) –  [Download](http://rubyinstaller.org/)
         Gem   –  selenium-cucumber
 
